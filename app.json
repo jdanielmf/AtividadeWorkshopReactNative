@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "AtividadeWorkshopReactNative",
+    "slug": "AtividadeWorkshopReactNative",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "AtividadeWorkshopReactNative"
+}
